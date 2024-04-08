@@ -110,5 +110,16 @@ else
 return 0;
 }
 /* Output:-
-
+Enter the number of nodes: 6
+Enter edge (-1 -1 to quit): 0 1
+Enter edge (-1 -1 to quit): 2 1
+Enter edge (-1 -1 to quit): 2 4
+Enter edge (-1 -1 to quit): 4 3
+Enter edge (-1 -1 to quit): 3 5
+Enter edge (-1 -1 to quit): 5 0
+Enter edge (-1 -1 to quit): 1 3
+Enter edge (-1 -1 to quit): 3 2
+Enter edge (-1 -1 to quit): -1 -1
+Enter starting vertex for depth-first search:  0
+0 1 3 2 4 5
   */
