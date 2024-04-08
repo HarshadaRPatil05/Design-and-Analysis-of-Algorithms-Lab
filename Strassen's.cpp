@@ -52,5 +52,22 @@ int main(){
   return 0;
 }
 /* Output:-
+Enter the four elements of a matrix :
+2 3
+4 6
+Enter the four elements of b matrix :
+6 2
+1 4
+The a matrix is :
 
+2 3
+4 6
+The b matrix is :
+
+6 2
+1 4
+After multiplication using Strassen's Algorithm
+
+15 16
+30 32
 */
