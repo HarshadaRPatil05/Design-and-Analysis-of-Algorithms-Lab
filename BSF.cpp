@@ -97,5 +97,16 @@ front=front+1;
 return del_item;
 }
 /* Output:-
-
+Enter the number of vertices: 6
+Enter the edge(-1 -1 to quit): 0 1
+Enter the edge(-1 -1 to quit): 1 3
+Enter the edge(-1 -1 to quit): 3 2
+Enter the edge(-1 -1 to quit): 2 0
+Enter the edge(-1 -1 to quit): 0 4
+Enter the edge(-1 -1 to quit): 4 3
+Enter the edge(-1 -1 to quit): 2 5
+Enter the edge(-1 -1 to quit): 3 5
+Enter the edge(-1 -1 to quit): -1 -1
+Enter starting vertex for breadth-first search: 0
+0 1 4 3 2 5
   */
