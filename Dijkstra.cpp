@@ -118,6 +118,33 @@ void create_graph() {
     }
 }
 /* Output:-
-
+Enter the number of vertices: 6
+Enter edge 1 (enter -1 -1 to finish): 0 1
+Enter weight of this edge: 8
+Enter edge 2 (enter -1 -1 to finish): 1 2
+Enter weight of this edge: 1
+Enter edge 3 (enter -1 -1 to finish): 2 3
+Enter weight of this edge: 3
+Enter edge 4 (enter -1 -1 to finish): 3 0
+Enter weight of this edge: 2
+Enter edge 5 (enter -1 -1 to finish): 3 4
+Enter weight of this edge: 4
+Enter edge 6 (enter -1 -1 to finish): 4 2
+Enter weight of this edge: 9
+Enter edge 7 (enter -1 -1 to finish): 4 5
+Enter weight of this edge: 6
+Enter edge 8 (enter -1 -1 to finish): 5 6
+Enter weight of this edge: 9
+Enter edge 9 (enter -1 -1 to finish): 2 6
+Enter weight of this edge: 7
+Enter edge 10 (enter -1 -1 to finish): -1 -1
+Enter the source vertex: 3
+Enter destination vertex (-1 to quit): 0
+Shortest path is: 3 0
+The shortest distance is: 2
+Enter destination vertex (-1 to quit): 2
+Shortest path is: 3 0 1 2
+The shortest distance is: 11
+Enter destination vertex (-1 to quit): -1
   */
 
